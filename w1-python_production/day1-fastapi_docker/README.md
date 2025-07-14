@@ -35,6 +35,7 @@ git clone https://github.com/yourusername/AI-Engineer-Production-Path.git
 ```
 
 2. **Create .env file**
+
 Define `HOST` and `PORT` in `.env` file. See `.env.example` file
 
 3. **Run with Docker**
