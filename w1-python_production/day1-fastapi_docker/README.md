@@ -29,15 +29,15 @@
 
 
 ### ⚙️ How to run?
-1. Clone repo
+1. **Clone repo**
 ```
 git clone https://github.com/yourusername/AI-Engineer-Production-Path.git
 ```
 
-# 2. Create .env file
-Define `HOST` and `PORT` in .env file. See `.env.example` file
+2. **Create .env file**
+Define `HOST` and `PORT` in `.env` file. See `.env.example` file
 
-# 3. Run with Docker
+3. **Run with Docker**
 ```
 docker build -t <docker_image_name>
 docker run -p 8000:8000 <docker_image_name>
