@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+dotenv
+pydantic
+pydantic_settings
+scikit-learn
